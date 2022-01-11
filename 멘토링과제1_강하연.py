@@ -1,3 +1,4 @@
+'''
 #4번_2739
 N = int(input())
 
@@ -11,7 +12,7 @@ N = int(input())
 for i in range(N):
     sum += (i+1)
 print(sum)
-
+'''
 
 #6번_10871
 a,b = input().split()
@@ -22,6 +23,7 @@ for i in range(a):
     if c<b:
         print(c)
         
+'''
 
 #7번_10951
 while (True):
@@ -32,3 +34,5 @@ while (True):
         print(A+B)
     else:
         break
+
+'''
